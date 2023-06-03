@@ -173,6 +173,6 @@ I would like to thank Microverse Team
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./https://github.com/AhmedMh0/Hello-Microvers-Project/blob/setupmicroverse/MIT.mdLICENSE)._
+This project is [MIT](https://github.com/AhmedMh0/Hello-Microvers-Project/blob/setupmicroverse/MIT.mdLICENSE)._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
