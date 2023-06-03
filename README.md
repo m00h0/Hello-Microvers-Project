@@ -65,9 +65,7 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Contact form]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,17 +117,11 @@ Github
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Ahmed**
 
 - GitHub: [@githubhandle](https://github.com/AhmedMh0)
 - Twitter: [@twitterhandle](https://github.com/AhmedMh0)
 - LinkedIn: [LinkedIn](https://github.com/AhmedMh0)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,9 +129,7 @@ Github
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Contact form]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +137,7 @@ Github
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/AhmedMh0).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,7 +145,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project follow me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
