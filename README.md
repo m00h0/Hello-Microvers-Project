@@ -30,58 +30,35 @@
 
 # 📖 [hello_microverse_project] <a name="hello-microverse"></a>
 
-> Describe your project in 1 or 2 sentences.
+> The  project Micriverse program .
 
-**[your_project__name]** is a...
+**[your_project__name]** is a Hello Microverse Project
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://microverse.org//">Microverse</a></li>
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
+<details> 
 ### ahmed Features <a name="Ahmed-features"></a>
 
-> Describe between 1-3 key features of the application.
+> It's first project from Microverse.
 
 - **[Contact form]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Ahmed Demo <a name="Ahmed-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://github.com/AhmedMh0)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Project Started <a name="project-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
@@ -120,14 +97,11 @@ Github
 👤 **Ahmed**
 
 - GitHub: [@githubhandle](https://github.com/AhmedMh0)
-- Twitter: [@twitterhandle](https://github.com/AhmedMh0)
-- LinkedIn: [LinkedIn](https://github.com/AhmedMh0)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Ahmed Features <a name="Ahmed-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+
 
 - [ ] **[Contact form]**
 
@@ -159,16 +133,9 @@ I would like to thank Microverse Team
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **[Provide Feedback: If you've tried out the project or have any suggestions for improvement, we would love to hear from you. Your feedback is invaluable in shaping the future direction of the project.
 
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
+]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
