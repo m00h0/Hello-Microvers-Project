@@ -12,7 +12,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -53,11 +52,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Ahmed Demo <a name="Ahmed-demo"></a>
-- [Live Demo Link](https://github.com/AhmedMh0)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Project Started <a name="project-started"></a>
 
 ### Prerequisites
@@ -82,12 +76,6 @@ git push
 
 To run tests, run the following command:
 git log
-
-### Deployment
-
-You can deploy this project using:
-Github
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Ahmed <a name="authors"></a>
@@ -111,7 +99,7 @@ Github
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AhmedMh0).
+Feel free to check the [issues page]( https://github.com/AhmedMh0/Hello-Microvers-Project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,12 +119,6 @@ I would like to thank Microverse Team
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-- **[Provide Feedback: If you've tried out the project or have any suggestions for improvement, we would love to hear from you. Your feedback is invaluable in shaping the future direction of the project.
-
-]**
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
