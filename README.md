@@ -91,7 +91,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/AhmedMh0/Hello-Microvers-Project.git
+https://github.com/m00h0/Hello-Microvers-Project.git
 ### Install
 
 Install this project with:
