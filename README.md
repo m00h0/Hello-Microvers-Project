@@ -127,6 +127,8 @@ Github
 
 > Describe 1 - 3 features you will add to the project.
 
+- (Coming soon)
+  
 - [ ] **[Contact form]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
