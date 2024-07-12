@@ -69,7 +69,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Ahmed Demo <a name="Ahmed-demo"></a>
+## 🚀 Demo <a name="demo"></a>
 
 > Add a link to your deployed project.
 
