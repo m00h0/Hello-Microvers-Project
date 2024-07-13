@@ -61,7 +61,7 @@
   </ul>
 </details>
 
-### ahmed Features <a name="Ahmed-features"></a>
+### Features <a name="Ahmed-features"></a>
 
 > Describe between 1-3 key features of the application.
 
