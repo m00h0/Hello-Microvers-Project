@@ -30,7 +30,6 @@
 
 # 📖 [hello_microverse_project] <a name="hello-microverse"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[your_project__name]** is a...
 
