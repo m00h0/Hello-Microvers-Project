@@ -66,7 +66,6 @@
 
 ## 🚀 Demo <a name="demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](Coming soon)
 
