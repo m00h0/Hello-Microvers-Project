@@ -73,7 +73,6 @@
 
 ## 💻 Project Started <a name="project-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
