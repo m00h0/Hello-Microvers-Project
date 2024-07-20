@@ -118,8 +118,6 @@ Github
 
 ## 🔭 Features <a name="Ahmed-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - (Coming soon)
   
 - [ ] **[Contact form]**
