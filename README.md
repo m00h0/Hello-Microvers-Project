@@ -108,8 +108,6 @@ Github
 
 ## 👥 Ahmed <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Ahmed**
 
 - GitHub: [@m00h0](https://github.com/m00h0)
