@@ -146,8 +146,6 @@ I would like to thank Microverse Team .
 
 - **[Question_1]**
 
-  - [Answer_1]
-
 - **[Question_2]**
 
   - [Answer_2]
