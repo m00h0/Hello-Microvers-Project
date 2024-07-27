@@ -148,8 +148,6 @@ I would like to thank Microverse Team .
 
 - **[Question_2]**
 
-  - [Answer_2]
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
