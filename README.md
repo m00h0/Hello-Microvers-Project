@@ -144,8 +144,6 @@ I would like to thank Microverse Team .
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **[Question_1]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
