@@ -118,7 +118,7 @@ Github
 
 - (Coming soon)
   
-- [ ] **[Contact form]**
+**[Contact form]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
