@@ -30,9 +30,6 @@
 
 # 📖 [hello_microverse_project] <a name="hello-microverse"></a>
 
-
-**[your_project__name]** is a...
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
