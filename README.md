@@ -64,7 +64,9 @@
 ## 🚀 Demo <a name="demo"></a>
 
 
-- [Live Demo Link](Coming soon)
+[Live Demo Link]
+  
+- (Coming soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
