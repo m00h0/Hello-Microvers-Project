@@ -115,10 +115,10 @@ Github
 
 ## 🔭 Features <a name="Ahmed-features"></a>
 
+- **[Contact form]**
+
 - (Coming soon)
   
-**[Contact form]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Any Contributing <a name="any-contributing"></a>
