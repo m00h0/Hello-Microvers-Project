@@ -121,7 +121,7 @@ Github
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Any Contributing <a name="any-contributing"></a>
+## 🤝 Any Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
