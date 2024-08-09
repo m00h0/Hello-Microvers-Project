@@ -90,7 +90,7 @@ Clone from Github
 ### Usage
 
 To run the project, execute the following command:
-git push
+open it via VsCode
 
 ### Run tests
 
