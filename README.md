@@ -86,7 +86,7 @@ https://github.com/m00h0/Hello-Microvers-Project.git
 ### Install
 
 Install this project with:
-Clone from Github
+Clone from Github by: git clone your github link
 ### Usage
 
 To run the project, execute the following command:
