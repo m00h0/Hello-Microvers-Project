@@ -21,7 +21,7 @@
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
+- [🔭 Future Features](#future-features1)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -112,7 +112,7 @@ Github
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Features <a name="future-features"></a>
+## 🔭 Features <a name="future-features1"></a>
 
 - **[Contact form]**
 
