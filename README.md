@@ -18,7 +18,7 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run log](#run-tests)
+  - [Run log](#run-test)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features1)
@@ -92,7 +92,7 @@ Clone from Github by: git clone your github link
 To run the project, execute the following command:
 open it via VsCode
 
-### Run tests
+### Run test
 
 To run tests, run the following command:
 git log
