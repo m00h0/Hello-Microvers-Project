@@ -27,7 +27,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [hello_microverse_project] <a name="hello-microverse"></a>
+# 📖 [hello_microverse_project] <a name="about-project"></a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
