@@ -69,7 +69,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Project Started <a name="project-started"></a>
+## 💻 Project Started <a name="getting-started"></a>
 
 
 To get a local copy up and running, follow these steps.
