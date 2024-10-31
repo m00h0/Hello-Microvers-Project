@@ -60,7 +60,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Demo <a name="live-demo"></a>
+## 🚀 Demo <a name="deployment"></a>
 
 
 [Live Demo Link]
