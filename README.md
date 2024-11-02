@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Ahmed README Template</b></h3>
+  <h3><b> README Template</b></h3>
 
 </div>
 
