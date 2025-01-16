@@ -112,7 +112,7 @@ Github
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Features <a name="future-features1"></a>
+## 🔭 Future Features <a name="future-features1"></a>
 
 - **[Contact form]**
 
