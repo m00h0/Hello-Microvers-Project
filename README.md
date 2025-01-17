@@ -114,8 +114,6 @@ Github
 
 ## 🔭 Future Features <a name="future-features1"></a>
 
-- **[Contact form]**
-
 - (Coming soon)
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
